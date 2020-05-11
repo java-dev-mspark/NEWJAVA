@@ -1,4 +1,4 @@
-package com.mspark.newjava.java9.collectors;
+package com.mspark.newjava.java9.stream.collectors;
 
 import java.util.ArrayList;
 import java.util.List;
